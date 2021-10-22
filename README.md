@@ -1,0 +1,2 @@
+# EmojiePedia
+Created with CodeSandbox
